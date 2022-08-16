@@ -1,2 +1,1 @@
-tis is to ceck branckes concepts
-  
+created new branch called as frstbranch and editing in that branch and editing in main branch 
