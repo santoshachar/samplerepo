@@ -1,2 +1,4 @@
 created new branch called as frstbranch and editing in that branch and editing in main branch
 editing same file same line in frst branch 
+creating second line in secbranch and editing the same 
+
